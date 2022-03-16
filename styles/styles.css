@@ -1,0 +1,65 @@
+.head_section{
+    background-image: url(../assets/backgrounds/h_img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding-top: 500px;
+      
+}
+.head_text{
+    font-size: 45px;
+    font-weight: bold;
+    
+
+}
+.span_text{
+    font-size: 12px;
+    padding-bottom: 425px;
+}
+.mouse_click{
+    padding-bottom: 55px;
+}
+.about_us{
+    text-align: center;
+    padding-top: 70px;
+    height: 50vh;
+}
+.services{
+    text-align: center;
+    padding-top: 70px;
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    height: 50vh;
+}
+.h_our_work{
+    text-align: center;
+}
+.h_portfolio{
+    text-align: center;
+}
+.h_contact{
+    text-align: center;
+}
+.contact{
+    background-image: url(../assets/backgrounds/c_image.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    height: 100vh;
+
+}
+#submit{
+    color: white;
+
+}
+.socials{
+    text-align: center;
+}
+.social_icons{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}

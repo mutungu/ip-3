@@ -50,7 +50,7 @@ $(document).ready(function(){
         $('#portfolio').css('opacity',0).fadeOut();
     });
     $('.work_6').hover(function(){
-        $('#dashboard').css('opacity',1).fadeIn(2000);
+        $('#dashboard').css('opacity',1).fadeIn(3000);
     }, function(){
         $('#dashboard').css('opacity',0).fadeOut();
     });
